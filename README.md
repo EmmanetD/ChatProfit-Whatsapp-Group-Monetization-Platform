@@ -32,10 +32,10 @@ excel_files: Contains survey response data.
 Presentations: ChatProfit_Presentation.pptx
 
 ## Technologies Used
-- #### Google forms: #### for administering the survey
-- #### Excel: #### for data analysis
-- #### PowerPoint: #### for data presentation
-- #### Google Docs: #### for reporting and documentation
+- **Google forms:** for administering the survey
+- **Excel:**  for data analysis
+- **PowerPoint:** for data presentation
+- **Google Docs:** for reporting and documentation
 
 ## Data Cleaning and Transformation
 Data cleaning involved handling missing values, standardizing responses, and categorizing open-ended responses. Transformation processes converted survey data into formats compatible with our analysis tools.
