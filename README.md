@@ -1,9 +1,11 @@
 # ChatProfit-WhatsApp-Group-Monetization-Platform
 
+![image](/assets/Chatprofit_Dashboard.png)
+
 ## Contributors
 - Damilare Adefowope
 - BlessedSarah Omolola
-- Diseph Dum-Igoni
+- [Diseph Dum-Igoni](https://github.com/disephD)
 
 ## Table of Contents
 1. Project Overview
@@ -11,7 +13,6 @@
 3. Data Source
 
 ## Project Overview
-![image](/assets/Chatprofit_Dashboard.png)
 ChatProfit is a startup platform designed to bridge the gap between WhatsApp group owners and advertisers interested in promoting products to niche audiences. The platform aims to empower group owners to monetize their communities while providing advertisers with access to highly engaged, targeted groups aligned with their products or services.
 The goal of this project is to conduct a comprehensive analysis of user preferences, ad engagement behaviors, and monetization potential within WhatsApp groups. By leveraging structured survey data from group members, admins, and advertisers, we aim to:
 - Understand the motivations and preferences of each user segment.
@@ -25,12 +26,9 @@ The goal of this project is to conduct a comprehensive analysis of user preferen
 - Advertiser Dashboard: Enable advertisers to track ad performance and reach targeted demographics
 
 ## Structure of the Repo
-Assets: Contains all relevant images.
-Documents:
-survey_questions.pdf
-market_research_report.pdf
-excel_files: Contains survey response data.
-Presentations: ChatProfit_Presentation.pptx
+[Assets](/assets): Contains the dashboard images.
+[Documents](/documents): Contains the survey questions, the market report and presentation file.
+[Data](/data): Contains the responses from the survey.
 
 ## Technologies Used
 - **Google forms:** for administering the survey
