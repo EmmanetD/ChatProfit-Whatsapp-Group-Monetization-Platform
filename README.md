@@ -10,7 +10,12 @@
 ## Table of Contents
 1. Project Overview
 2. Features
-3. Data Source
+3. Structure of the Repo
+4. Technologies Used
+5. Data Cleaning and Transformation
+6. Data Analysis
+7. Key Insights
+8. Conclusion
 
 ## Project Overview
 ChatProfit is a startup platform designed to bridge the gap between WhatsApp group owners and advertisers interested in promoting products to niche audiences. The platform aims to empower group owners to monetize their communities while providing advertisers with access to highly engaged, targeted groups aligned with their products or services.
