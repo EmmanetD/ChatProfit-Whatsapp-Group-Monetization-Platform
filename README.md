@@ -11,6 +11,7 @@
 3. Data Source
 
 ## Project Overview
+![image](/assets/Chatprofit_Dashboard.png)
 ChatProfit is a startup platform designed to bridge the gap between WhatsApp group owners and advertisers interested in promoting products to niche audiences. The platform aims to empower group owners to monetize their communities while providing advertisers with access to highly engaged, targeted groups aligned with their products or services.
 The goal of this project is to conduct a comprehensive analysis of user preferences, ad engagement behaviors, and monetization potential within WhatsApp groups. By leveraging structured survey data from group members, admins, and advertisers, we aim to:
 - Understand the motivations and preferences of each user segment.
