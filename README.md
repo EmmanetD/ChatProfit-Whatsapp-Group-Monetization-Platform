@@ -31,9 +31,9 @@ The goal of this project is to conduct a comprehensive analysis of user preferen
 - Advertiser Dashboard: Enable advertisers to track ad performance and reach targeted demographics
 
 ## Structure of the Repo
-[Assets](/assets): Contains the dashboard images.
-[Documents](/documents): Contains the survey questions, the market report and presentation file.
-[Data](/data): Contains the responses from the survey.
+i. [Assets](/assets): Contains the dashboard images.
+ii. [Documents](/documents): Contains the survey questions, the market report and presentation file.
+iii. [Data](/data): Contains the responses from the survey.
 
 ## Technologies Used
 - **Google forms:** for administering the survey
