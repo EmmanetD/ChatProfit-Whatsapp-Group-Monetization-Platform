@@ -3,8 +3,8 @@
 ![image](/assets/Chatprofit_Dashboard.png)
 
 ## Contributors
-- Damilare Adefowope
-- BlessedSarah Omolola
+- [Damilare Adefowope](https://github.com/EmmanetD)
+- [BlessedSarah Omolola](https://github.com/Blessedsarah)
 - [Diseph Dum-Igoni](https://github.com/disephD)
 
 ## Table of Contents
