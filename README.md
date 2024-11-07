@@ -4,7 +4,7 @@
 
 ## Contributors
 - [Damilare Adefowope](https://github.com/EmmanetD)
-- [BlessedSarah Omolola](https://github.com/Blessedsarah)
+- [Blessedsarah Omolola](https://github.com/Blessedsarah)
 - [Diseph Dum-Igoni](https://github.com/disephD)
 
 ## Table of Contents
@@ -32,7 +32,7 @@ The goal of this project is to conduct a comprehensive analysis of user preferen
 
 ## Structure of the Repo
 - [Assets](/assets): Contains the dashboard images.
-- [Documents](/documents): Contains the survey questions, the market report and presentation file.
+- [Documents](/documents): Contains the survey questions, analysis and recommendation, the market report and presentation file.
 - [Data](/data): Contains the responses from the survey.
 
 ## Technologies Used
