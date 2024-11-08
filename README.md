@@ -66,7 +66,7 @@ Data cleaning involved handling missing values, standardizing responses, and cat
   Priority goals include increasing membership and engagement, with a secondary focus on monetization and brand authority.
   65% expressed interest in monetizing their groups through ads.
 - Challenges:
-  Privacy concerns and maintaining group interaction quality were major hurdles.
+  Privacy concerns and the maintenance of group interaction quality posed significant challenges.
   Desired features include group statistics, member insights, and a seamless payment system.
 
 ### Advertiser Analysis
